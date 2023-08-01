@@ -1,0 +1,10 @@
+.ack-cards-blcok{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    /* gap: 20px; */
+}
+/* .ack-cards-blcok .card{
+    width: 12.5rem;
+} */

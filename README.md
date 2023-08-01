@@ -1,21 +1,70 @@
-- 👋 Hi, I’m @VijayVarunReddyanugula
-- 👀 I’m interested in coading
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on webTechnologies
-- 📫 How to reach me below details
+# Getting Started with Create React App
 
-<!---
-Dear Hiring Manager,
-I am excited to apply for the UI Developer role. With over 10+ years of experience developing highly transactional and scalable web applications using Object Oriented Analysis and Design (OOA/OOD) principles, I believe I would make a valuable addition to your team.
-Throughout my career, I have demonstrated my expertise in designing and developing with JavaScript, ReactJS, NextJs, Angular (Versions: 7,8,9,10,12), HTML5, CSS3, JQUERY, AJAX, JSON, Node.JS, Bootstrap, Flexbox, and Material UI. My proficiency in the full Software Development Life Cycle (SDLC) including analyzing, designing, coding, testing, implementation, and production support, as well as my experience in designing Event Handling Models such as Listener and Dispatcher in JavaScript, has enabled me to deliver high-quality web applications that meet the needs of clients.
-Furthermore, my experience in Responsive Web Design (RWD) technologies such as React & Angular Versions, jQuery, jQuery Mobile, Node.js, Node-Red, Cordova framework Bootstrap, HTML, XHTML, CSS, XML, JavaScript, AJAX, and JSON, has allowed me to create visually appealing and user-friendly interfaces. I have also used version control system tools such as GIT and SVN to manage multiple projects and have proficiency in Agile methodologies such as Extreme Programming, Waterfall Model, and Test-Driven Development.
-In addition to my technical skills, I possess strong communication, organizational, and interpersonal skills, which make me a team player with a self-starter attitude. I have experience in creating and reviewing UI design specifications, developing prototypes, and conducting usability tests, which has helped me to create applications that meet the expectations of clients.
-I am excited about the opportunity to bring my skills and experience and contribute to its success. Thank you for considering my application. I look forward to hearing from you soon.
-Below I have attached my Resume for More Details Info 
-Sincerely,
-Vijay Varun Reddy.Anugula
-Phone : 480-859-9639
-email : vijayvarunreddya@gmail.com
-https://www.linkedin.com/in/vijayvarunreddy/
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
---->
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
