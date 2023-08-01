@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b7616989.css",
+    "main.js": "/static/js/main.7ce1af12.js",
+    "static/js/787.7093765b.chunk.js": "/static/js/787.7093765b.chunk.js",
+    "static/media/Inter-Regular.ttf": "/static/media/Inter-Regular.e89cb19905e7db5591b0.ttf",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/eden_logo.png": "/static/media/eden_logo.748cfb626f011da4fe75.png",
+    "index.html": "/index.html",
+    "main.b7616989.css.map": "/static/css/main.b7616989.css.map",
+    "main.7ce1af12.js.map": "/static/js/main.7ce1af12.js.map",
+    "787.7093765b.chunk.js.map": "/static/js/787.7093765b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7616989.css",
+    "static/js/main.7ce1af12.js"
+  ]
+}

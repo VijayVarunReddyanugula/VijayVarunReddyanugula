@@ -1,0 +1,10 @@
+.cards-blcok{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.cards-blcok .card{
+    width: 12.5rem;
+}
